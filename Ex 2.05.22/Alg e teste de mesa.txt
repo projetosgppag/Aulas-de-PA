@@ -1,0 +1,9 @@
+Algoritmo converte_dolar
+Digite o valor do dolar e armazene em dol
+Digite a quantia de reais e armazene em reais
+Faça valor em x = reais/dol
+Mostre x
+Fim algoritmo
+
+Teste de mesa:   reais     dol    x
+                  100       5     20
