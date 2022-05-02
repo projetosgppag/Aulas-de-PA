@@ -1,0 +1,11 @@
+Algoritmo
+   Digite a quantidade mínima e armazene em qtdemin
+   Digite a quantidade máxima e armazene em qtdemax
+   Faça estome = (qtdemin = qtdemax) / 2
+   Mostre estome
+FimAlgoritmo
+
+Teste de Mesa
+Qtdemin   Qtdemax   Estome
+  20        100       60
+  15        200      107.5
