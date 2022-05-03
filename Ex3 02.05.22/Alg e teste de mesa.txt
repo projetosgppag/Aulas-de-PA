@@ -1,0 +1,9 @@
+Algoritmo
+Digite um número e armazene em pe
+Digite um número e armazene em quant
+faça y = pe * quant
+faça x = (y * (5/100)
+mostre x
+
+teste de mesa: pe quant  y      x
+               2.5  200  500    25
