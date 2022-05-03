@@ -1,0 +1,14 @@
+Algoritmo
+Digite um número e armazene em A
+Digite um número e armazene em B
+Digite um número e armazene em C
+Digite um número e armazene em D
+faça valor em A = A*A
+faça valor em B = B*B
+faça valor em C = C*C
+faça valor em D = D*D
+faça valor em E = A + B + C + D
+mostre E
+
+teste de mesa: A  B  C  D  E
+               2  2  2  2  16
