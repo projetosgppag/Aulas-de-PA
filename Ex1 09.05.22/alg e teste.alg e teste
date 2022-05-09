@@ -1,0 +1,10 @@
+Algoritmo hora
+Digite um valor e armazene em hora
+Digite um valor e armazene em min
+faça final = min/60 + hora
+mostre final
+fimalgoritmo
+
+teste de mesa:
+hora  min  final
+ 4    23    4,38
