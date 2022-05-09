@@ -1,0 +1,11 @@
+Algoritmo custo
+Digite o custo de fábrica do carro e armazene em custo
+Faça imp = (custo * 45/100) + custo
+Faça dist = (imp * 28/100) + imp
+Faça consu= dist
+Mostre consu
+FimAlgoritmo
+
+Teste de Mesa
+Custo    Imp(45%)        Dist(28%)     Consu
+25.000	  11.250	 10.150       46.400
