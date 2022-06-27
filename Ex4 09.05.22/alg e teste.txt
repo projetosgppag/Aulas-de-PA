@@ -1,0 +1,10 @@
+Algoritmo multa
+Digite um valor e armazene em per
+Digite um valor e armazene em hora
+Digite um valor e armazene em min
+faça tempo = min/60 + hora
+faça media = per/tempo
+mostre media
+
+teste de mesa: per  tempo  media
+               150  1h13   122
