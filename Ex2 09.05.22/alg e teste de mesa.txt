@@ -1,0 +1,13 @@
+Algoritmo hora extra
+Digite um valor e armazene em hora
+Digite um valor e armazene em min
+Digite um valor e armazene em sal
+faça sla = min/60 +hora
+faça sla2 = sal * sla
+faça sla3 = (sla2 * (70/100))
+faça final = sla2 + sla3
+mostre final
+
+teste de mesa: hora min sal final
+               15   45  25  669,37
+ 
