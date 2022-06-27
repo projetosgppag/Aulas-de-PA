@@ -1,0 +1,10 @@
+Algoritmo gasosa
+Digite um valor e armazene em km
+Digite um valor e armazene em gasosa
+Digite um valor e armazene em olho
+faça final = km/gasosa
+faça sla = final * olho
+mostre sla
+
+teste de mesa: km   gasosa   olho   sla
+               450  10       4,50   202
